@@ -1,1 +1,3 @@
-# add required dependencies 
+gradio
+pandas
+numpy
