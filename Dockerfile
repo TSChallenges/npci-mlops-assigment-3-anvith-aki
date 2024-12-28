@@ -13,5 +13,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Make port 7860 available to the world outside this container
 EXPOSE 6080
 
-# Run app.py when the container launches
+# Run python application when the container launches
 CMD ["python", "employee_stats_app.py"]
